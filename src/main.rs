@@ -43,7 +43,7 @@
 /// * Contact: Joel Parker Henderson <joel@joelparkerhenderson.com>
 
 fn noel() {
-    let s = String::from("noël");
+    let s = String::from("noël");
 
     // Does it print correctly? Yes, most languages are capable of doing this.
     println!("Does it print correctly? {}", s);
